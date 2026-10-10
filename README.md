@@ -34,6 +34,15 @@ scoop bucket add <bucketname> https://github.com/<username>/<bucketname>
 scoop install <bucketname>/<manifestname>
 ```
 
+That is for this repo:
+```pwsh
+scoop bucket add AnotherOneBitesTheScoop https://github.com/AnotherOneBitesTheScoop/main
+```
+and for example, for the `Pantry` app:
+```pwsh
+scoop install AnotherOneBitesTheScoop/pantry
+```
+
 ## How do I contribute new manifests?
 
 To make a new manifest contribution, please read the [Contributing
