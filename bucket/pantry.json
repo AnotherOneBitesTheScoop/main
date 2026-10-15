@@ -1,12 +1,12 @@
 {
-    "version": "0.36.0",
+    "version": "0.37.0",
     "description": "Pantry",
     "homepage": "https://github.com/chenasraf/pantry-flutter",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/chenasraf/pantry-flutter/releases/download/v0.36.0/pantry-0.36.0-windows-x64.zip",
-            "hash": "4db5366c3253f8707ba808272f9b318c3dafc9bef8c4475b07a1246e78e57923"
+            "url": "https://github.com/chenasraf/pantry-flutter/releases/download/v0.37.0/pantry-0.37.0-windows-x64.zip",
+            "hash": "fe97c14ae46325d295729dee580a19abb50a0095371803959436841578e56ced"
         }
     },
     "bin": "pantry.exe",
